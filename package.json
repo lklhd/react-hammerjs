@@ -1,13 +1,13 @@
 {
-  "name": "react-hammerjs",
-  "version": "0.5.0",
-  "description": "ReactJS / HammerJS integration. Support touch events in your React app.",
+  "name": "react-hammerjs-lkhd",
+  "version": "0.5.0-lkhd",
+  "description": "ReactJS / HammerJS integration. Support touch events in your React app. Forked by Likelihood.",
   "main": "src/Hammer.js",
   "author": "Jed Watson",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JedWatson/react-hammerjs.git"
+    "url": "https://github.com/lklhd/react-hammerjs.git"
   },
   "dependencies": {
     "hammerjs": "^2.0.8"
@@ -55,3 +55,4 @@
     "mobile"
   ]
 }
+
